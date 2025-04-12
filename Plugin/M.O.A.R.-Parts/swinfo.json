@@ -1,0 +1,30 @@
+{
+  "spec": "1.3",
+  "mod_id": "com_github_M4DMaT7_MOARParts",
+  "author": "M4D-MaT7;Polo",
+  "name": "M.O.A.R.-Parts",
+  "description": "A KSP2 containing a variety of fan-favorite parts returning from the original game.",
+  "source": "https://github.com/M4D-MaT7/M.O.A.R.-Parts",
+  "version": "0.0.1",
+  "version_check": "",
+  "ksp2_version": {
+    "min": "0.2.2.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.9.5",
+        "max": "*"
+      }
+    },
+    {
+      "id": "PatchManager",
+      "version": {
+        "min": "0.11.1",
+        "max": "*"
+      }
+	}
+  ]
+}
