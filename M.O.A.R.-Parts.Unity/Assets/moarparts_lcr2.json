@@ -429,10 +429,10 @@
               },
               "HasEnoughResources": false,
               "LightObjectNames": [
-                "LCR-2 “Caravan” (KSP2 Re-Design) Low_Poly"
+                "moarparts_lcr2_low"
               ],
               "LightMaterialNames": [
-                "LCR-2 _Caravan"
+                "moarparts_lcr2"
               ],
               "Duration": 1.0,
               "ColorGradientColors": [],
@@ -562,7 +562,7 @@
                 "_maxTime": -3.40282347E+38
               },
               "DefaultActionGroup": "Lights",
-              "DefaultEnabledState": true,
+              "DefaultEnabledState": false,
               "RequiredResourceName": "ElectricCharge",
               "RequiredResourceThreshold": 1.0,
               "LightIntensityMultiplier": 3.0,
@@ -725,7 +725,7 @@
     "HasReportStorage": false,
     "oabEditorCategory": "VAB",
     "partType": "Rover",
-    "PreferredOrientation": "NONE",
+    "PreferredOrientation": "AIRPLANE",
     "MirrorTechnique": "RotationYZ",
     "CanSuggestOrientation": false,
     "PickUpPointOffset": {
