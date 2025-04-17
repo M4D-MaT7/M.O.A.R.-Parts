@@ -376,10 +376,10 @@
               },
               "HasEnoughResources": false,
               "LightObjectNames": [
-                "moarparts_pacs_low"
+                "moarparts_pasc_low"
               ],
               "LightMaterialNames": [
-                "moarparts_pacs"
+                "moarparts_pasc"
               ],
               "Duration": 1.0,
               "ColorGradientColors": [],

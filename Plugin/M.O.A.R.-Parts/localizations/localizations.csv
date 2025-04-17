@@ -5,7 +5,7 @@ Parts/Subtitle/moarparts_lcr2,Text,,Two Seat Rover Module
 Parts/Manufacturer/moarparts_lcr2,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
 Parts/Description/moarparts_lcr2,Text,,"Perfect for both extensive manned missions across distant worlds and the occasional road trip, the LCR-2 “Caravan” features an array of tools and gadgets designed to withstand the toughest terrains, including a built-in mini-fridge full of snacks awaiting for the perfect occasion."
 
-Parts/Title/moarparts_pacs,Text,,PAS-C “Porthole”
-Parts/Subtitle/moarparts_pacs,Text,,Radial Cupola Observation Module
-Parts/Manufacturer/moarparts_pacs,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
-Parts/Description/moarparts_pacs,Text,,"The PAS-C “Porthole” seems like it would be a beautiful place to contemplate the stars, and it can be placed almost anywhere!"
+Parts/Title/moarparts_pasc,Text,,PAS-C “Porthole”
+Parts/Subtitle/moarparts_pasc,Text,,Radial Cupola Observation Module
+Parts/Manufacturer/moarparts_pasc,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
+Parts/Description/moarparts_pasc,Text,,"The PAS-C “Porthole” seems like it would be a beautiful place to contemplate the stars, and it can be placed almost anywhere!"

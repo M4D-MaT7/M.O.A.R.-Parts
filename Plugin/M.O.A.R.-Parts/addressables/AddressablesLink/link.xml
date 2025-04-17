@@ -11,8 +11,10 @@
     <type fullname="KSP.Modules.Module_ResourceCapacities" preserve="all" />
     <type fullname="KSP.Modules.Module_ScienceExperiment" preserve="all" />
     <type fullname="FloatCurve" preserve="nothing" serialized="true" />
+    <type fullname="KSP.Game.PartsManagerCore/SerializedPartModuleDisplayVisuals" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_Color" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_Command" preserve="nothing" serialized="true" />
+    <type fullname="KSP.Modules.Data_Command/ControlPoint" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_CrewedInterior" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_Drag" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_LitPart" preserve="nothing" serialized="true" />
