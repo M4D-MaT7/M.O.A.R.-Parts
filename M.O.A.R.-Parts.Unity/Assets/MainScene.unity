@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: moarparts_lcr2
       objectReference: {fileID: 0}
+    - target: {fileID: 6310079044320444661, guid: c2fe59704148b724dabd1fdb39f775f4, type: 3}
+      propertyPath: dataTransmitter.CommunicationRange
+      value: 200000000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

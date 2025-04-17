@@ -757,8 +757,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dataTransmitter:
     CommunicationRange: 200000000
-    DataTransmissionInterval: 0.7
-    DataPacketSize: 10
+    DataTransmissionInterval: 1
+    DataPacketSize: 0.7
     RequiredResources:
     - Rate: 1.333
       ResourceName: ElectricCharge
