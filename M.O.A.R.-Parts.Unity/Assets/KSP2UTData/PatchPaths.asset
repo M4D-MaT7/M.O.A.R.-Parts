@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Keys:
   - moarparts_lcr2
+  - moarparts_pasc
   Values:
+  - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
