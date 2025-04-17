@@ -156,7 +156,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8711715550607069169}
   m_Layer: 0
-  m_Name: moarparts_pacs_low
+  m_Name: moarparts_pasc_low
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -588,9 +588,9 @@ MonoBehaviour:
   _dataLitPart:
     HasEnoughResources: 0
     LightObjectNames:
-    - moarparts_pacs_low
+    - moarparts_pasc_low
     LightMaterialNames:
-    - moarparts_pacs
+    - moarparts_pasc
     Duration: 1
     ColorGradientColors: []
     ColorGradientTimes: []
