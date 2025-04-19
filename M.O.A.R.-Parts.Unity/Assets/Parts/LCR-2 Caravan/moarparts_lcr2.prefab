@@ -125,10 +125,10 @@ MonoBehaviour:
         contactArea: 0
         overrideDragArea: 0
         isCompoundJoint: 0
-      - nodeID: srfAttach
+      - nodeID: bottom
         NodeSymmetryGroupID: 
-        nodeType: 1
-        attachMethod: 1
+        nodeType: 0
+        attachMethod: 0
         IsMultiJoint: 0
         MultiJointMaxJoint: 3
         MultiJointRadiusOffset: 0.94

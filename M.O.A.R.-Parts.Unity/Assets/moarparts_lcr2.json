@@ -95,10 +95,10 @@
         "isCompoundJoint": false
       },
       {
-        "nodeID": "srfAttach",
+        "nodeID": "bottom",
         "NodeSymmetryGroupID": "",
-        "nodeType": "Surface",
-        "attachMethod": "HINGE_JOINT",
+        "nodeType": "Stack",
+        "attachMethod": "FIXED_JOINT",
         "IsMultiJoint": false,
         "MultiJointMaxJoint": 3,
         "MultiJointRadiusOffset": 0.94,
