@@ -333,7 +333,7 @@ MonoBehaviour:
       maxTemp: 750
       attachRules:
         stack: 1
-        srfAttach: 0
+        srfAttach: 1
         allowStack: 1
         allowSrfAttach: 1
         allowCollision: 0
