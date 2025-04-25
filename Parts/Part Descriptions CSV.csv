@@ -1,0 +1,25 @@
+Key,Type,Desc,English
+Parts/Title/Mk2_Genesis,Text,,"Mk2 ""Genesis"""
+Parts/Subtitle/Mk2_Genesis,Text,,Twin Seat Command Pod
+Parts/Manufacturer/Mk2_Genesis,Text,,C7 Aerospace Division
+Parts/Description/Mk2_Genesis,Text,,"Following complaints concerning the loneliness experienced by kerbals in single seat command pods, the engineers at the C7 Aerospace Division decided to make extra room by designing the Mk2 ""Genesis"", a twin-seater command pod for accompanied missions at the expense of a few relatively non-important flight components."
+,,,
+Parts/Title/KV1_Onion,Text,,Kv1 “Onion”
+Parts/Subtitle/KV1_Onion,Text,,Single Seat Command Pod
+Parts/Manufacturer/KV1_Onion,Text,,Probodobodyne Inc
+Parts/Description/KV1_Onion,Text,,"After a very teary collective cooking session, the engineering team at Probodobodyne came up with the idea for the pod’s layered heat-shield structure. Almost as if it were an emotional metaphor, the design features a sphere-shaped capsule, detachable from the service module, covered in multiple layers of ablative material that allow it to survive re-entry while keeping the Kerbonaut inside safe and sound."
+,,,
+Parts/Title/PASC_Porthole,Text,,PAS-C “Porthole”
+Parts/Subtitle/PASC_Porthole,Text,,Radial Cupola Observation Module
+Parts/Manufacturer/PASC_Porthole,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
+Parts/Description/PASC_Porthole,Text,,"The PAS-C “Porthole” seems like it would be a beautiful place to contemplate the stars"","" and it can be placed almost anywhere!"
+,,,
+Parts/Title/Mk3_DC,Text,,Mk3-DC
+Parts/Subtitle/Mk3_DC,Text,,Heavy Remote Guidance Unit
+Parts/Manufacturer/Mk3_DC,Text,,Probodobodyne Inc
+Parts/Description/Mk3_DC,Text,,"The Mk3-DC is a heavy autonomous remote guidance drone core, developed after the Probodyne R&D team felt rival manufacturers' probe cores lacked ambition of scope and scale. The core is fully capable of piloting even the biggest of vessels with ease, and even comes with a revolutionary approach to preventing the unit from going rogue. In the event of an emergency, the drone core comes with a crew access hatch and a pair of complementary wire snips."
+,,,
+Parts/Title/LCR2_Caravan,Text,,LCR-2 “Caravan”
+Parts/Subtitle/LCR2_Caravan,Text,,Two Seat Rover Module
+Parts/Manufacturer/LCR2_Caravan,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
+Parts/Description/LCR2_Caravan,Text,,"Perfect for both extensive manned missions across distant worlds and the occasional road trip, the LCR-2 “Caravan” features an array of tools and gadgets designed to withstand the toughest terrains, including a built-in mini-fridge full of snacks awaiting for the perfect occasion."
