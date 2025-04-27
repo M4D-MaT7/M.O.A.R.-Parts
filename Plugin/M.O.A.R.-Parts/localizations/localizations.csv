@@ -9,3 +9,8 @@ Parts/Title/moarparts_pasc,Text,,PAS-C “Porthole”
 Parts/Subtitle/moarparts_pasc,Text,,Radial Cupola Observation Module
 Parts/Manufacturer/moarparts_pasc,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
 Parts/Description/moarparts_pasc,Text,,"The PAS-C “Porthole” seems like it would be a beautiful place to contemplate the stars, and it can be placed almost anywhere!"
+
+Parts/Title/moarparts_tr3,Text,,TR-3 “Rambler”
+Parts/Subtitle/moarparts_tr3,Text,,Six Seat Crew Cabin
+Parts/Manufacturer/moarparts_tr3,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
+Parts/Description/moarparts_tr3,Text,,"Engineered for the long road and the hard miles, the “Rambler” keeps your crew safe and mission-ready. Ample space, durable construction, and a cozy interior design make it a favorite for surface expeditions and orbital work alike. Style points included, no extra charge."
