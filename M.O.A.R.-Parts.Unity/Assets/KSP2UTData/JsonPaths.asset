@@ -15,6 +15,8 @@ MonoBehaviour:
   Keys:
   - moarparts_lcr2
   - moarparts_pasc
+  - moarparts_tr3
   Values:
+  - '%NAME%.json'
   - '%NAME%.json'
   - '%NAME%.json'
