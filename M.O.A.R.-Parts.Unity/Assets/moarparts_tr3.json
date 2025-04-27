@@ -8,7 +8,7 @@
     "family": "0340-Crew Cabin",
     "childStageOffset": 0,
     "cost": 100,
-    "crewCapacity": 4,
+    "crewCapacity": 6,
     "stageOffset": 0,
     "isCompound": false,
     "sizeCategory": "M",
@@ -76,13 +76,13 @@
         "SingleJointAxis": "X",
         "MultiJointFullBreakStrength": false,
         "position": {
-          "x": 1.77,
-          "y": 0.0,
-          "z": 0.0
+          "x": 0.0,
+          "y": 1.77,
+          "z": 0.11
         },
         "orientation": {
-          "x": 1.0,
-          "y": 0.0,
+          "x": 0.0,
+          "y": 1.0,
           "z": 0.0
         },
         "size": 1,
@@ -106,13 +106,13 @@
         "SingleJointAxis": "X",
         "MultiJointFullBreakStrength": false,
         "position": {
-          "x": -1.77,
-          "y": 0.0,
-          "z": 0.0
+          "x": 0.0,
+          "y": -1.77,
+          "z": 0.11
         },
         "orientation": {
-          "x": -1.0,
-          "y": 0.0,
+          "x": 0.0,
+          "y": -1.0,
           "z": 0.0
         },
         "size": 1,
@@ -136,13 +136,13 @@
         "SingleJointAxis": "X",
         "MultiJointFullBreakStrength": false,
         "position": {
-          "x": -1.77,
-          "y": 0.0,
-          "z": 0.0
+          "x": 0.0,
+          "y": -1.77,
+          "z": 0.11
         },
         "orientation": {
-          "x": -1.0,
-          "y": 0.0,
+          "x": 0.0,
+          "y": -1.0,
           "z": 0.0
         },
         "size": 1,
