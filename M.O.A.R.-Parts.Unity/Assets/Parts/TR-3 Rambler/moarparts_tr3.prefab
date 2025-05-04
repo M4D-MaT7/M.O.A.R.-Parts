@@ -411,7 +411,7 @@ MonoBehaviour:
       skinInternalConductionMult: 1
       thermalMassModifier: 1
       buoyancyUseCubeNamed: 
-      HasReportStorage: 0
+      HasReportStorage: 1
       oabEditorCategory: 0
       partType: 0
       PreferredOrientation: 0

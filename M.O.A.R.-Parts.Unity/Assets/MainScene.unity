@@ -188,6 +188,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 587207694073554629, guid: 333e92da19f833949bd69662f9d23805, type: 3}
+      propertyPath: core.data.attachNodes.Array.data[2].position.y
+      value: -0.23
+      objectReference: {fileID: 0}
     - target: {fileID: 2758711923166891667, guid: 333e92da19f833949bd69662f9d23805, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
