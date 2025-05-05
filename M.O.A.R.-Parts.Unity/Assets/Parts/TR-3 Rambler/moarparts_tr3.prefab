@@ -207,6 +207,7 @@ GameObject:
   - component: {fileID: 1554348427609788356}
   - component: {fileID: 852787834569747018}
   - component: {fileID: 7952724648527292891}
+  - component: {fileID: 9208432362027088232}
   m_Layer: 0
   m_Name: moarparts_tr3
   m_TagString: Untagged
@@ -384,6 +385,10 @@ MonoBehaviour:
         ModuleData:
         - Name: Data_CrewedInterior
           Data: 
+      - Name: PartComponentModule_ScienceExperiment
+        ModuleData:
+        - Name: Data_ScienceExperiment
+          Data: 
       resourceSummary:
         Consumes: []
         Generates: []
@@ -406,7 +411,7 @@ MonoBehaviour:
       skinInternalConductionMult: 1
       thermalMassModifier: 1
       buoyancyUseCubeNamed: 
-      HasReportStorage: 0
+      HasReportStorage: 1
       oabEditorCategory: 0
       partType: 0
       PreferredOrientation: 0
@@ -601,6 +606,40 @@ MonoBehaviour:
     InteriorName: 
     IsProbe: 0
     IsExternal: 0
+--- !u!114 &9208432362027088232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551842927613824364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -814025482, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Animator: {fileID: 0}
+  DeployedAnimationStateName: OPENED
+  IndexOfContextualExperiment: 0
+  dataScienceExperiment:
+    ExperimentStandings: []
+    CurrentRegionIsInitial: 0
+    Experiments:
+    - ExperimentDefinitionID: CrewObservation
+      CrewRequired: 1
+      TimeToComplete: 0
+      ContextualExperiment: 0
+      ResourcesCost: []
+      DenyInterruption: 0
+      ExperimentUsesResources: 0
+      DeployedBoolAnimatorParamName: 
+      CFXName: fx_science
+      SFXEvent: 0
+    NotifyOnCompletion: 0
+    IsPartAnimated: 0
+    PartIsDeployed: 0
+    ExperimentRequestHandles: []
+    ResourceThresholdMultiplier: 0.25
 --- !u!1 &7711400436214932763
 GameObject:
   m_ObjectHideFlags: 0

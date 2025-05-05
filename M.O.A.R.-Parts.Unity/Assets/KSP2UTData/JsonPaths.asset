@@ -16,7 +16,9 @@ MonoBehaviour:
   - moarparts_lcr2
   - moarparts_pasc
   - moarparts_tr3
+  - moarparts_fte1_drain_valve
   Values:
+  - '%NAME%.json'
   - '%NAME%.json'
   - '%NAME%.json'
   - '%NAME%.json'

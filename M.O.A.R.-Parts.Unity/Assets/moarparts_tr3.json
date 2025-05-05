@@ -393,6 +393,52 @@
             }
           }
         ]
+      },
+      {
+        "Name": "PartComponentModule_ScienceExperiment",
+        "ComponentType": "KSP.Sim.impl.PartComponentModule_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BehaviourType": "KSP.Modules.Module_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ModuleData": [
+          {
+            "Name": "Data_ScienceExperiment",
+            "ModuleType": "KSP.Modules.Module_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "DataType": "KSP.Modules.Data_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Data": null,
+            "DataObject": {
+              "$type": "KSP.Modules.Data_ScienceExperiment, Assembly-CSharp",
+              "ExperimentStandings": [],
+              "CurrentRegionIsInitial": false,
+              "LastKnownValidSituation": {
+                "CelestialBodyScalar": 0.0,
+                "ScienceRegionScalar": 0.0,
+                "SituationScalar": 0.0,
+                "ResearchLocation": null
+              },
+              "Experiments": [
+                {
+                  "ExperimentDefinitionID": "CrewObservation",
+                  "CrewRequired": 1,
+                  "TimeToComplete": 0.0,
+                  "ContextualExperiment": false,
+                  "ResourcesCost": [],
+                  "DenyInterruption": false,
+                  "ExperimentUsesResources": false,
+                  "DeployedBoolAnimatorParamName": "",
+                  "CFXName": "fx_science",
+                  "SFXEvent": "Invalid"
+                }
+              ],
+              "NotifyOnCompletion": false,
+              "ResourceThresholdMultiplier": 0.25,
+              "ModuleType": "KSP.Modules.Module_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "DataType": "KSP.Modules.Data_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "IsActiveInStagingProp": {
+                "ContextKey": null,
+                "storedValue": false
+              }
+            }
+          }
+        ]
       }
     ],
     "resourceSummary": {
@@ -422,7 +468,7 @@
     "skinInternalConductionMult": 1.0,
     "thermalMassModifier": 1.0,
     "buoyancyUseCubeNamed": "",
-    "HasReportStorage": false,
+    "HasReportStorage": true,
     "oabEditorCategory": "VAB",
     "partType": "Rocket",
     "PreferredOrientation": "NONE",
