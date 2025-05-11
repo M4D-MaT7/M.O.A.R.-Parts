@@ -262,7 +262,7 @@ GameObject:
   - component: {fileID: 3938137064467612711}
   - component: {fileID: 6908201026865530678}
   m_Layer: 0
-  m_Name: moarparts_pasc
+  m_Name: moarparts_pasc_porthole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -300,7 +300,7 @@ MonoBehaviour:
     version: 0.3
     useExternal: 0
     data:
-      partName: moarparts_pasc
+      partName: moarparts_pasc_porthole
       author: M4D-MaT7;Polo
       category: 6
       family: 0000-Pod

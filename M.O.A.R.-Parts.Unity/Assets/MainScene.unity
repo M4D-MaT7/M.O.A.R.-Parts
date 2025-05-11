@@ -287,7 +287,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5441096707499925050, guid: 333e92da19f833949bd69662f9d23805, type: 3}
       propertyPath: m_Name
-      value: moarparts_pasc
+      value: moarparts_pasc_porthole
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

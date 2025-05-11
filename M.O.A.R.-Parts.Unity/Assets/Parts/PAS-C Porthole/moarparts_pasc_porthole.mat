@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: moarparts_pasc
+  m_Name: moarparts_pasc_porthole
   m_Shader: {fileID: 4800000, guid: 9838581f4028d3a4289aaeaa592b4cfc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

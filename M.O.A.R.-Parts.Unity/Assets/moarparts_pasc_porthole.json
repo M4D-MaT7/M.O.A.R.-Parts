@@ -2,7 +2,7 @@
   "version": 0.3,
   "useExternal": false,
   "data": {
-    "partName": "moarparts_pasc",
+    "partName": "moarparts_pasc_porthole",
     "author": "M4D-MaT7;Polo",
     "category": "Pods",
     "family": "0000-Pod",
@@ -697,7 +697,7 @@
       "y": 0.0,
       "z": 0.0
     },
-    "Title": "moarparts_pasc",
+    "Title": "moarparts_pasc_porthole",
     "Subtitle": null,
     "Manufacturer": null,
     "Description": null
