@@ -265,7 +265,7 @@ MonoBehaviour:
       crewCapacity: 0
       stageOffset: 0
       isCompound: 0
-      sizeCategory: 3
+      sizeCategory: 4
       stageType: 0
       resourceCosts: []
       tags: 
