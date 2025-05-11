@@ -342,6 +342,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5079215820785268918, guid: 333e92da19f833949bd69662f9d23805, type: 3}
+      propertyPath: _dataLitPart.LightMaterialNames.Array.data[0]
+      value: moarparts_pasc_porthole
+      objectReference: {fileID: 0}
     - target: {fileID: 5441096707499925050, guid: 333e92da19f833949bd69662f9d23805, type: 3}
       propertyPath: m_Name
       value: moarparts_pasc_porthole
