@@ -19,3 +19,8 @@ Parts/Title/moarparts_fte1_drain_valve,Text,,FTE-1 Drain Valve
 Parts/Subtitle/moarparts_fte1_drain_valve,Text,,External Fuel Valve
 Parts/Manufacturer/moarparts_fte1_drain_valve,Text,,FLOOYD Dynamics Research Labs
 Parts/Description/moarparts_fte1_drain_valve,Text,,"While trying to solve the initial issue with the FTX-1 series fuel line, an engineer at FLOOYD Dynamics had an ingenious thought - what if you failed to attach a fuel pipe at all? Solves the issue of making sure the fuel goes in the right direction, because it just goes out. He was demoted and assigned to bookkeeping duties, but later on, FLOOYD resurrected his idea in the form of the FTE-1 - a valve that will allow you to drain most resources from the part that it happens to be attached to, great for emergencies, floatation adjustment, or just fun rocket pranks."
+
+Parts/Title/moarparts_mk3dc,Text,,Mk3-DC
+Parts/Subtitle/moarparts_mk3dc,Text,,Heavy Remote Guidance Unit
+Parts/Manufacturer/moarparts_mk3dc,Text,,Probodobodyne Inc
+Parts/Description/moarparts_mk3dc,Text,,"The Mk3-DC is a heavy autonomous remote guidance drone core, developed after the Probodyne R&D team felt rival manufacturers' probe cores lacked ambition of scope and scale. The core is fully capable of piloting even the biggest of vessels with ease, and even comes with a revolutionary approach to preventing the unit from going rogue. In the event of an emergency, the drone core comes with a crew access hatch and a pair of complementary wire snips."
