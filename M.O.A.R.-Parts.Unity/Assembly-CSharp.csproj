@@ -47,6 +47,7 @@
      <Folder Include="Assets\AddressableAssetsData" />
      <Folder Include="Assets\Parts\FTE-1 Drain Valve" />
      <Folder Include="Assets\StreamingAssets" />
+     <None Include="Assets\moarparts_mk3dc.json" />
      <Folder Include="Assets\Parts\TR-3 Rambler" />
      <Folder Include="Assets\AddressableAssetsData\DataBuilders" />
      <None Include="Packages\KSP2_x64\package.json" />
@@ -56,6 +57,7 @@
      <None Include="Assets\StreamingAssets\aa\catalog.json" />
      <Folder Include="Assets\KSP2UTData" />
      <Folder Include="Packages\KSP2_x64" />
+     <Folder Include="Assets\Parts\Mk3-DC" />
      <Folder Include="Assets\Parts" />
      <None Include="Assets\moarparts_lcr2.json" />
      <None Include="Assets\StreamingAssets\aa\settings.json" />
