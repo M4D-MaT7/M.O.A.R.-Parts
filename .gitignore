@@ -1,9 +1,3 @@
-/M.O.A.R.-Parts.Unity/Library
-/M.O.A.R.-Parts.Unity/Logs
-/M.O.A.R.-Parts.Unity/Packages/KSP2_x64
-/M.O.A.R.-Parts.Unity/Temp
-/M.O.A.R.-Parts.Unity/UserSettings
-/M.O.A.R.-Parts.Unity/Assets/Thunderkit Installer - KSP2
 # General C# project
 *.suo
 *.user
