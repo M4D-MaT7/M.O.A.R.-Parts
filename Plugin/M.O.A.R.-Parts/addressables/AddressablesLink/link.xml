@@ -9,6 +9,7 @@
     <type fullname="KSP.Modules.Module_LitPart" preserve="all" />
     <type fullname="KSP.Modules.Module_ReactionWheel" preserve="all" />
     <type fullname="KSP.Modules.Module_ResourceCapacities" preserve="all" />
+    <type fullname="KSP.Modules.Module_ResourceConverter" preserve="all" />
     <type fullname="KSP.Modules.Module_ScienceExperiment" preserve="all" />
     <type fullname="FloatCurve" preserve="nothing" serialized="true" />
     <type fullname="KSP.Game.PartsManagerCore/SerializedPartModuleDisplayVisuals" preserve="nothing" serialized="true" />
@@ -21,9 +22,12 @@
     <type fullname="KSP.Modules.Data_ReactionWheel" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_ReactionWheel/ReactionWheelState" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_ResourceCapacities" preserve="nothing" serialized="true" />
+    <type fullname="KSP.Modules.Data_ResourceConverter" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_ScienceExperiment" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.Data_Transmitter" preserve="nothing" serialized="true" />
     <type fullname="KSP.Modules.ExperimentConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="KSP.Modules.ResourceConversionState" preserve="nothing" serialized="true" />
+    <type fullname="KSP.Modules.ResourceConverterFormulaDefinition" preserve="nothing" serialized="true" />
     <type fullname="KSP.OAB.MirrorTechnique" preserve="nothing" serialized="true" />
     <type fullname="KSP.OAB.OABEditorPartCategory" preserve="nothing" serialized="true" />
     <type fullname="KSP.OAB.OABOrientation" preserve="nothing" serialized="true" />
