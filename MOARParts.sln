@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{5B153549-AB2D-4BE8-9354-F7D59F9002A1}") = "MOARParts", "src/MOARParts/MOARParts.csproj", "{1321D75E-9F67-4C53-87C5-99581B3DA96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{1321D75E-9F67-4C53-87C5-99581B3DA96E}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+	EndGlobalSection
+EndGlobal
+

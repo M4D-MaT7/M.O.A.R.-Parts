@@ -3,7 +3,65 @@
 /M.O.A.R.-Parts.Unity/Packages/KSP2_x64
 /M.O.A.R.-Parts.Unity/Temp
 /M.O.A.R.-Parts.Unity/UserSettings
-/M.O.A.R.-Parts.Unity/Assets/AddressableAssetsData
 /M.O.A.R.-Parts.Unity/Assets/Thunderkit Installer - KSP2
-/M.O.A.R.-Parts.Unity/Assets/ThunderKitSettings
-/M.O.A.R.-Parts.Unity/Assets/StreamingAssets
+# General C# project
+*.suo
+*.user
+.vs/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+/[Pp]ackages/
+
+# Mod template folders
+/[Bb]uild/
+/[Dd]ist/
+/[Nn]uget/
+
+# Rider
+
+# User specific
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/*
+**/.idea/dictionaries
+**/.idea/httpRequests/
+
+# Sensitive or high-churn files
+**/.idea/**/dataSources/
+**/.idea/**/dataSources.ids
+**/.idea/**/dataSources.xml
+**/.idea/**/dataSources.local.xml
+**/.idea/**/sqlDataSources.xml
+**/.idea/**/dynamic.xml
+
+# Rider auto-generates .iml files, and contentModel.xml
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
+
+# VS Code files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+/src/MOARParts.Unity/Library
+/src/MOARParts.Unity/Logs
+/src/MOARParts.Unity/Packages/KSP2_x64
+/src/MOARParts.Unity/Temp
+/src/MOARParts.Unity/UserSettings
+/src/MOARParts.Unity/Assets/AddressableAssetsData
+/src/MOARParts.Unity/Assets/Thunderkit Installer - KSP2
+/src/MOARParts.Unity/Assets/ThunderKitSettings
+/src/MOARParts.Unity/Assets/StreamingAssets
