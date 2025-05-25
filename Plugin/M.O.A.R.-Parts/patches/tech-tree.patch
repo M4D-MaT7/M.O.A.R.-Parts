@@ -1,0 +1,25 @@
+// TIER 2
+
+// Medium Orbital Rockets (230 science points)
+:science #tNode_2v_rockets_02 {
+  UnlockedPartsIDs +: [ "moarparts_pasc_porthole" ];
+}
+
+// Autonomous Sampling (500 science points)
+:science #tNode_2v_rover {
+  UnlockedPartsIDs +: [ "moarparts_lcr2" ];
+}
+
+// TIER 3
+
+// Deep-Space Probes (1400 science points)
+:science #tNode_3v_electronics_01 {
+  UnlockedPartsIDs +: [ "moarparts_mk3dc" ];
+}
+
+// TIER 4
+
+// Space Truckin' (9800 science points)
+:science #tNode_4v_rover_01 {
+  UnlockedPartsIDs +: [ "moarparts_tr3" ];
+}
