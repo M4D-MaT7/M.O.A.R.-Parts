@@ -1,5 +1,11 @@
 Key,Type,Desc,English
 
+PartModules/DrainValve/Enabled,Text,,Valve Opened
+PartModules/DrainValve/OpenValve,Text,,Open Valve
+PartModules/DrainValve/CloseValve,Text,,Close Valve
+PartModules/DrainValve/ToggleValve,Text,,Toggle Valve
+PartModules/DrainValve/Methalox,Text,,Methalox Drain
+
 Parts/Title/moarparts_lcr2,Text,,LCR-2 “Caravan”
 Parts/Subtitle/moarparts_lcr2,Text,,Two Seat Rover Module
 Parts/Manufacturer/moarparts_lcr2,Text,,Jebediah Kerman’s Junkyard And Spacecraft Parts Co.
