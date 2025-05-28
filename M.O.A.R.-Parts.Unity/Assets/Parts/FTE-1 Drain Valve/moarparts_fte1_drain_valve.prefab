@@ -190,6 +190,7 @@ GameObject:
   - component: {fileID: 2528249656615743929}
   - component: {fileID: 1045259822991468100}
   - component: {fileID: 3256245558302813217}
+  - component: {fileID: 2955349727689733393}
   m_Layer: 0
   m_Name: moarparts_fte1_drain_valve
   m_TagString: Untagged
@@ -307,6 +308,10 @@ MonoBehaviour:
         ModuleData:
         - Name: Data_Color
           Data: 
+      - Name: PartComponentModule_ResourceConverter
+        ModuleData:
+        - Name: Data_ResourceConverter
+          Data: 
       resourceSummary:
         Consumes: []
         Generates: []
@@ -410,6 +415,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dataColor: {}
+--- !u!114 &2955349727689733393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8552778108793065362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 349989866, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dataResourceConverter:
+    conversionState: 3
+    HasEnoughResources: 1
+    ConverterIsActive: 1
+    SelectedFormula: 0
+    ToggleName: PartModules/DrainValve/Enabled
+    StartActionName: PartModules/DrainValve/OpenValve
+    StopActionName: PartModules/DrainValve/CloseValve
+    ToggleActionName: PartModules/DrainValve/ToggleValve
+    ConvertByMass: 0
+    ResourceAutoShutdown: 0
+    FormulaDefinitions:
+    - InternalName: Valve
+      FormulaLocalizationKey: PartModules/DrainValve/Methalox
+      InputResources:
+      - Rate: 0.1
+        ResourceName: ElectricCharge
+        AcceptanceThreshold: 0.01
+      - Rate: 0.5
+        ResourceName: Methalox
+        AcceptanceThreshold: 0.01
+      OutputResources: []
+      FluxGenerated: 0
+      AcceptanceThreshold: 0
+    FluxGenerated: 0
+    ThermalAutoShutdown: 0
+    AutoShutdownTemperature: 2000
+    SafeOperationTemperature: 1000
+    UseEmissive: 0
+    UseEmissiveTemperature: 0
+    EmissiveMaterialNames: []
+    EmissiveTemperatureCurve:
+      fCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      _minTime: 3.4028235e+38
+      _maxTime: -3.4028235e+38
+    EmissiveLerpRateUp: 0.1
+    EmissiveLerpRateDown: 0.01
 --- !u!1 &8943928340845445185
 GameObject:
   m_ObjectHideFlags: 0
