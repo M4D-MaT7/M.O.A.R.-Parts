@@ -73,7 +73,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1606024460605916598}
   m_Layer: 0
-  m_Name: moarparts_tr3
+  m_Name: moarparts_tr3_rambler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -247,7 +247,7 @@ MonoBehaviour:
     version: 0.3
     useExternal: 0
     data:
-      partName: moarparts_tr3
+      partName: moarparts_tr3_rambler
       author: M4D-MaT7;Polo
       category: 13
       family: 0340-Crew Cabin
@@ -507,9 +507,9 @@ MonoBehaviour:
   _dataLitPart:
     HasEnoughResources: 0
     LightObjectNames:
-    - moarparts_tr3
+    - moarparts_tr3_rambler
     LightMaterialNames:
-    - moarparts_tr3
+    - moarparts_tr3_rambler
     Duration: 1
     ColorGradientColors: []
     ColorGradientTimes: []

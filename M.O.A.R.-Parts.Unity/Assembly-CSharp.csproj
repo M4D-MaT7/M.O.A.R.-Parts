@@ -52,11 +52,11 @@
      <Folder Include="Assets\AddressableAssetsData\DataBuilders" />
      <None Include="Packages\KSP2_x64\package.json" />
      <Folder Include="Assets\AddressableAssetsData\AssetGroups" />
-     <None Include="Assets\moarparts_tr3.json" />
      <Folder Include="Assets\ThunderKitSettings" />
      <None Include="Assets\StreamingAssets\aa\catalog.json" />
      <Folder Include="Assets\KSP2UTData" />
      <Folder Include="Packages\KSP2_x64" />
+     <None Include="Assets\moarparts_tr3_rambler.json" />
      <Folder Include="Assets\Parts\Mk3-DC" />
      <Folder Include="Assets\Parts" />
      <None Include="Assets\moarparts_lcr2.json" />

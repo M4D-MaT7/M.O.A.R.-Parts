@@ -2,7 +2,7 @@
   "version": 0.3,
   "useExternal": false,
   "data": {
-    "partName": "moarparts_tr3",
+    "partName": "moarparts_tr3_rambler",
     "author": "M4D-MaT7;Polo",
     "category": "Payload",
     "family": "0340-Crew Cabin",
@@ -300,10 +300,10 @@
               },
               "HasEnoughResources": false,
               "LightObjectNames": [
-                "moarparts_tr3"
+                "moarparts_tr3_rambler"
               ],
               "LightMaterialNames": [
-                "moarparts_tr3"
+                "moarparts_tr3_rambler"
               ],
               "Duration": 1.0,
               "ColorGradientColors": [],
@@ -484,7 +484,7 @@
       "y": 0.0,
       "z": 0.0
     },
-    "Title": "moarparts_tr3",
+    "Title": "moarparts_tr3_rambler",
     "Subtitle": null,
     "Manufacturer": null,
     "Description": null
