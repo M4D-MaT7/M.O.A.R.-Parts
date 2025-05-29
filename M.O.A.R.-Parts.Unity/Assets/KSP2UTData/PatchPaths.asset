@@ -19,7 +19,9 @@ MonoBehaviour:
   - moarparts_fte1_drain_valve
   - moarparts_pasc_porthole
   - moarparts_mk3dc
+  - moarparts_tr3_rambler
   Values:
+  - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch

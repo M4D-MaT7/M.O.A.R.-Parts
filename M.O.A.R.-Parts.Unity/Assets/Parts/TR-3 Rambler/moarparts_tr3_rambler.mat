@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: moarparts_tr3
+  m_Name: moarparts_tr3_rambler
   m_Shader: {fileID: 4800000, guid: 9838581f4028d3a4289aaeaa592b4cfc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 635c9865b8ac4db4fafed48bdcce77ae, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5cd6cce60f786c6489e22172d755aff2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -44,23 +44,23 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: ba5f55d40975ab64189eea1ee49ad4f8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 30e9c4501e2aba242965b8bb4868c346, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d8eff1779fd4f884e8ca4912e17e2482, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8e17189528f6f8e41a94ce65d7b26c91, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 40dfa10be6e6b6840a52503d46d3528f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2663fcada9885d548aee34a64447018c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: db0a1cf39d7106f47b559bf7629207bb, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6f6fc42eb2bfb5448a8d7d080d888847, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _PaintMaskGlossMap:
-        m_Texture: {fileID: 2800000, guid: 86539ea9cbeabeb4d9375ca85c87aa8e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 87c5090506c6a2549aa8513cccf3c154, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:

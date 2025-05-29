@@ -209,7 +209,7 @@ GameObject:
   - component: {fileID: 7952724648527292891}
   - component: {fileID: 9208432362027088232}
   m_Layer: 0
-  m_Name: moarparts_tr3
+  m_Name: moarparts_tr3_rambler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
