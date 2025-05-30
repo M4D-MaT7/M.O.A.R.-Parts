@@ -365,7 +365,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5551842927613824364, guid: 58319f386025577489e5b4c20b4d36a9, type: 3}
       propertyPath: m_Name
-      value: moarparts_tr3
+      value: moarparts_tr3_rambler
       objectReference: {fileID: 0}
     - target: {fileID: 5581125773643473556, guid: 58319f386025577489e5b4c20b4d36a9, type: 3}
       propertyPath: m_LocalPosition.x
